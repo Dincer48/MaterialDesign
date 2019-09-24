@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialTextField">
+        <attr name="material_cardCollapsedHeight" format="dimension"/>
+        <attr name="material_labelColor" format="color"/>
+        <attr name="material_image" format="reference"/>
+        <attr name="material_hasFocus" format="boolean"/>
+        <attr name="material_animationDuration" format="integer"/>
+        <attr name="material_openKeyboardOnFocus" format="boolean"/>
+        <attr name="material_backgroundColor" format="color"/>
+    </declare-styleable>
+</resources>
